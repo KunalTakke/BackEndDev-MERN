@@ -1,0 +1,16 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "URL to QR generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Takke",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.4.2",
+    "qr-image": "^3.2.0"
+  }
+}
